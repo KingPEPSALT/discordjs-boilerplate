@@ -17,6 +17,14 @@ You will likely want to remove the `.git` folder in the directory and initialise
 ```
 git init .
 ```
+**IMPORTANT:** In `.gitignore`, `#config.json` should become `config.json`
+### `config.json` entries
+Key|Description
+---|---
+token|The discord token of your bot
+testGuildId|The guild that you test your bot in
+clientId|The application/client ID of your bot
+
 In the `package.json` file, you may want to change the project title and descriptions.
 
 Add me on discord if you need help `pepsalt#1662`
