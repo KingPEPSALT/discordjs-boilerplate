@@ -27,4 +27,6 @@ clientId|The application/client ID of your bot
 
 In the `package.json` file, you may want to change the project title and descriptions.
 
+---
+
 Add me on discord if you need help `pepsalt#1662`
